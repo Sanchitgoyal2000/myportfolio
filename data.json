@@ -1,18 +1,18 @@
 {
     "name": "Sanchit Goyal",
     "title": "Backend Developer",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "intro": "",
     "skills": [{
             "title": "C",
             "rating": "90"
         },
         {
             "title": "C++",
-            "rating": "97"
+            "rating": "90"
         },
         {
             "title": "Java",
-            "rating": "85"
+            "rating": "90"
         },{
             "title": "HTML",
             "rating": "80"
